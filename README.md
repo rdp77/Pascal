@@ -1,3 +1,3 @@
 ## Pascal
 
-Pascal programming language that was built using Free Pascal IDE software.
+You can download [Free Pascal IDE software](https://www.freepascal.org/download.var) and read the [documentation](https://www.freepascal.org/down/docs/docs.var).
