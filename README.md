@@ -1,2 +1,2 @@
 # Pascal
-Free and open source pascal program language.
+Pascal programming language that was built using Free Pascal IDE software
